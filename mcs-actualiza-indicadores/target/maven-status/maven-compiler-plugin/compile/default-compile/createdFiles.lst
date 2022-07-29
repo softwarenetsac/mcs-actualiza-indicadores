@@ -1,0 +1,16 @@
+pe\gob\minjus\mcs\indicadores\config\AppConfig.class
+pe\gob\minjus\mcs\indicadores\bean\Error.class
+pe\gob\minjus\mcs\indicadores\dao\impl\ConsultaDaoImpl.class
+pe\gob\minjus\mcs\indicadores\bean\GenericResponse.class
+pe\gob\minjus\mcs\indicadores\util\test.class
+pe\gob\minjus\mcs\indicadores\controller\ConsultaController.class
+pe\gob\minjus\mcs\indicadores\dao\ConsultaDao.class
+META-INF\spring-configuration-metadata.json
+pe\gob\minjus\mcs\indicadores\config\SwaggerConfig.class
+pe\gob\minjus\mcs\indicadores\service\ConsultaService.class
+pe\gob\minjus\mcs\indicadores\bean\PropertiesBean.class
+pe\gob\minjus\mcs\indicadores\McsActualizaIndicadoresApplication.class
+pe\gob\minjus\mcs\indicadores\util\Util.class
+pe\gob\minjus\mcs\indicadores\task\Scheduler.class
+pe\gob\minjus\mcs\indicadores\service\impl\ConsultaServiceImpl.class
+pe\gob\minjus\mcs\indicadores\bean\GenericBean.class
